@@ -70,4 +70,3 @@ Some potential future enhancements for the project include:
 ## License
 
 This project is open-source and licensed under the MIT License. Feel free to modify and use it for your own purposes.
-# analysis_niches
